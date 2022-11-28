@@ -1,0 +1,16 @@
+E:\FOXLEARN\CSharp\ServiceWebDemo\ServiceWebDemo\bin\Debug\ServiceWebDemo.exe.config
+E:\FOXLEARN\CSharp\ServiceWebDemo\ServiceWebDemo\bin\Debug\ServiceWebDemo.exe
+E:\FOXLEARN\CSharp\ServiceWebDemo\ServiceWebDemo\bin\Debug\ServiceWebDemo.pdb
+E:\FOXLEARN\CSharp\ServiceWebDemo\ServiceWebDemo\obj\Debug\ServiceWebDemo.frmAccueil.resources
+E:\FOXLEARN\CSharp\ServiceWebDemo\ServiceWebDemo\obj\Debug\ServiceWebDemo.Properties.Resources.resources
+E:\FOXLEARN\CSharp\ServiceWebDemo\ServiceWebDemo\obj\Debug\ServiceWebDemo.csproj.GenerateResource.Cache
+E:\FOXLEARN\CSharp\ServiceWebDemo\ServiceWebDemo\obj\Debug\ServiceWebDemo.exe
+E:\FOXLEARN\CSharp\ServiceWebDemo\ServiceWebDemo\obj\Debug\ServiceWebDemo.pdb
+D:\FOXLEARN\CSharp\ServiceWebDemo\ServiceWebDemo\bin\Debug\ServiceWebDemo.exe.config
+D:\FOXLEARN\CSharp\ServiceWebDemo\ServiceWebDemo\obj\Debug\ServiceWebDemo.exe
+D:\FOXLEARN\CSharp\ServiceWebDemo\ServiceWebDemo\obj\Debug\ServiceWebDemo.pdb
+D:\FOXLEARN\CSharp\ServiceWebDemo\ServiceWebDemo\bin\Debug\ServiceWebDemo.exe
+D:\FOXLEARN\CSharp\ServiceWebDemo\ServiceWebDemo\bin\Debug\ServiceWebDemo.pdb
+D:\FOXLEARN\CSharp\ServiceWebDemo\ServiceWebDemo\obj\Debug\ServiceWebDemo.frmAccueil.resources
+D:\FOXLEARN\CSharp\ServiceWebDemo\ServiceWebDemo\obj\Debug\ServiceWebDemo.Properties.Resources.resources
+D:\FOXLEARN\CSharp\ServiceWebDemo\ServiceWebDemo\obj\Debug\ServiceWebDemo.csproj.GenerateResource.Cache
